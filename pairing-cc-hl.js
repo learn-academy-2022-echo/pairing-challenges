@@ -1,5 +1,6 @@
 Hello! This is a good start.
 
+ pairing-cc-hl
 Sup. This is a little hard. 
 Oof this is the second time i've tried this. the first time I made the changes to main.
 
@@ -19,14 +20,15 @@ I wonder why we fetch when we an pull right away -H
 
 I'm getting a hang of it. -CC
 
-<<<<<<< HEAD
+
 I guess the git pull only works on the branch that you're in. - H
-=======
+
 You have been hacked!
->>>>>>> 9f5635d19f9c3ade66c58079e47065ee00bfa870
 
 We know it works - CC
 
 Great job - H
 
 Too slowwwwww. CC
+=======
+Oof this is the second time i've tried this. the first time I made the changes to main.
