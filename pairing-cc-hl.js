@@ -8,3 +8,5 @@ I pulled down your merged changes to my local -HL
 This is a great challenge. -CC
 
 What a headache this is. - HL
+
+I am hitting return too fast without thinking. -CC
