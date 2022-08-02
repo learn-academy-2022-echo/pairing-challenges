@@ -4,3 +4,4 @@ let result = "more lines of code";
 for (let i = 0; i< result.length; i++) {
     console.log(result[i]);
 }
+console.log("Last line of code!!!!")
